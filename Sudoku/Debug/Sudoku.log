@@ -1,0 +1,162 @@
+﻿Build started 07/05/2018 07:39:39 م.
+     1>Project "C:\Users\عبدالرحمن\Desktop\تبع عز\SFML.Project\SFML.Project\SFML.Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SFML.Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         g:\Vs2010\VC\bin\CL.exe /c /I"C:\Users\عبدالرحمن\Desktop\تبع عز\SFML.Project\sfml\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(48): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(48): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(137): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(137): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(316): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(316): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(321): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(321): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(326): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(326): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(332): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(332): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(339): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(339): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(345): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(345): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(351): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(351): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(357): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(357): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(363): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(363): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(492): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(682): warning C4101: 'a' : unreferenced local variable
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(682): warning C4101: 'b' : unreferenced local variable
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(714): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(714): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(721): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(721): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(727): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(727): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(734): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(734): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(741): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(741): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(748): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(748): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(755): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(755): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(762): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(762): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(769): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(769): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(821): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(821): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(826): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(826): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(831): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(831): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(837): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(837): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(844): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(844): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(850): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(850): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(856): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(856): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(862): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(862): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(868): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(868): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(878): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(878): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(883): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(883): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(888): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(888): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(894): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(894): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(901): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(901): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(907): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(907): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(913): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(913): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(919): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(919): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(925): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(925): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1258): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1258): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1267): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1307): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1310): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1399): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1399): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1406): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1406): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1412): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1412): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1419): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1419): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1426): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1426): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1433): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1433): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1439): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1439): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1446): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1446): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1453): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1453): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1264): warning C4101: 'check' : unreferenced local variable
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1548): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1548): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1553): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1553): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1558): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1558): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1564): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1564): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1571): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1571): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1577): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1577): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1583): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1583): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1589): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1589): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1595): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1595): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1646): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1646): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1667): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1697): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1826): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1826): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1813): warning C4101: 'y' : unreferenced local variable
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1813): warning C4101: 'x' : unreferenced local variable
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(1813): warning C4101: 'z' : unreferenced local variable
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(427): warning C4715: 'checkerForSolver' : not all control paths return a value
+     1>c:\users\عبدالرحمن\desktop\تبع عز\sfml.project\sfml.project\main.cpp(486): warning C4715: 'checkingNumsFromUser' : not all control paths return a value
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         g:\Vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\عبدالرحمن\Desktop\تبع عز\SFML.Project\Debug\SFML.Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\عبدالرحمن\Desktop\تبع عز\SFML.Project\sfml\lib" "sfml-system-d.lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SFML.Project.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\عبدالرحمن\Desktop\تبع عز\SFML.Project\Debug\SFML.Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\عبدالرحمن\Desktop\تبع عز\SFML.Project\Debug\SFML.Project.lib" /MACHINE:X86 Debug\SFML.Project.exe.embed.manifest.res
+         Debug\level_menu.obj
+         Debug\main.obj
+         Debug\main_menu.obj
+         Debug\play_menu.obj
+         Debug\sudoku_buttons.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\SFML.Project.exe.embed.manifest" /manifest Debug\SFML.Project.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         SFML.Project.vcxproj -> C:\Users\عبدالرحمن\Desktop\تبع عز\SFML.Project\Debug\SFML.Project.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\SFML.Project.unsuccessfulbuild".
+         Touching "Debug\SFML.Project.lastbuildstate".
+     1>Done Building Project "C:\Users\عبدالرحمن\Desktop\تبع عز\SFML.Project\SFML.Project\SFML.Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.38
